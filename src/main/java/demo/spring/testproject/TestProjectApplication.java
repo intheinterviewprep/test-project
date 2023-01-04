@@ -17,6 +17,6 @@ public class TestProjectApplication {
 class TestController{
 	@GetMapping("/")
 	public String greet(){
-		return "<h1>Welcome To TestProjectApplication</h1>";
+		return "<h1>Welcome To The TestProjectApplication</h1>";
 	}
 }
